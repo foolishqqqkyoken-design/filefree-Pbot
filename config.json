@@ -1,8 +1,8 @@
 {
-  "EMAIL": "",
-  "PASSWORD": "",
+  "EMAIL": "krankheavenly@gmail.com",
+  "PASSWORD": "gh090712",
   "NOTIFICATION": true,
-  "language": "vi",
+  "language": "en",
   "notiGroup": false,
   "keyActive": "",
   "DeveloperMode": false,
@@ -14,12 +14,12 @@
   "UPTIME": 0,
   "socks5": "socks5://user:pass:ip:port",
   "socks5tl": false,
-  "ACCESSTOKEN": "EAAD6V7os0gcBOwmZAZAfSYzhg1qspaMIXlPZAbgHd0XLbuOYfdzU5cOoGLgmFSKILYNw5uaGVHs5F4LjCGLgwbZBtxAoAZCiDAVKbn4sThgeuoX8i3UZClX0RZAXg5FNZAtdP7KkhO4Ew0e4XJrHgBcciC5Ovf48C9PNDepzbodDQmkDUfZBrfdFJD44EyuvjUpAMoCEdfCS6fQZDZD",
+  "ACCESSTOKEN": "EAAGNO4a7r2wBRsv6IxuPRl7IlxRAaETIZAtMeOIJ8MrDzddZC4XN7fhYRhsY6IIgxfRhln3mbfJgk0ZBuAukZCC8O73hwnBlC11dt7ZAY0mmz2kBAaHPXLDqYXfpStpLCguH5FZBcdeKm9OmCaSwRmWVNPY75tAkNnY18RAtjZBZCSMIArUQZBP7oEHXPZAw1Jqk4jFAZDZD",
   "FACEBOOK_ADMIN": "https://www.facebook.com/pcoder090/",
   "ZALO_ADMIN": "",
-  "ADMIN_NAME": "Nguyễn Trương Thiện Phát",
-  "BOTNAME": "PCODER",
-  "PREFIX": ".",
+  "ADMIN_NAME": "tatara god ng dummy",
+  "BOTNAME": "bot ni tatara",
+  "PREFIX": "#",
   "DEVELOPERS": [
     "100047128875560"
   ],
